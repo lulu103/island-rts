@@ -1,0 +1,6 @@
+{
+  "name": "Island RTS",
+  "short_name": "RTS",
+  "display": "standalone",
+  "start_url": "./"
+}
